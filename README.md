@@ -27,12 +27,12 @@
 ---
 - 📚 Allame Helli no.3 highschool 
 - 🏆 2018 robocup (AmirKabir uni.)
-- 👨🏻‍💻 16th place in Quera rankig
+- 👨🏻‍💻 16th place in Quera ranking
   >over **400** questions solved
 ---
 <h3 align="left">contact me</h3>
 
-<p align="left">
+<p align="center">
     <a href=mailto:pouyaghahari6@gmail.com>
             <img src="https://img.shields.io/badge/Gmail-white?style=flat&logo=gmail" align="center" alt="Gmail" />
     </a>
