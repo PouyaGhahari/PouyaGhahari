@@ -27,7 +27,7 @@
 ---
 - 📚 Allame Helli no.3 highschool 
 - 🏆 2018 robocup (AmirKabir uni.)
-- 👨🏻‍💻 16th place in Quera ranking
+- 👨🏻‍💻 15th place in Quera ranking
   >over **400** questions solved
 ---
 <h3 align="left">contact me</h3>
